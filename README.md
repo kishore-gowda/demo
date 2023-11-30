@@ -1,3 +1,3 @@
 # demo
 1st repo
-Auther - kishore gowda
+Author - kishore gowda
